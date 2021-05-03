@@ -1,3 +1,3 @@
 # 2 Exercises
-## - SF Salaries
-## Ecommerce Purchases
+#### - SF Salaries
+#### - Ecommerce Purchases
